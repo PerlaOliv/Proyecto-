@@ -8,15 +8,6 @@
   </div>
 </section>
 
-
-
-
-
-
-
-
-
-
 <section class="fdb-block">
   <div class="container">
     <div class="row">
@@ -36,19 +27,6 @@ El nopal, es una verdura que contiene micronutrientes favorables para combatir l
     </div>
   </div>
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
